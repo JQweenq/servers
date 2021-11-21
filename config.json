@@ -1,0 +1,7 @@
+{
+	"serverTree": "Files",
+	"opensslKey": "localhost-privkey.pem",
+	"opensslCert": "localhost-cert.pem",
+	"port": 443,
+	"host": null
+}
