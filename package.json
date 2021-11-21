@@ -1,0 +1,19 @@
+{
+    "name": "tcp",
+    "version": "1.0.0",
+    "description": "tcp/ip server",
+    "scripts": {
+        "server": "node ./server/server.js",
+        "dev-server": "nodemon ./server/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Josty-Qweenq/servers.git"
+    },
+    "author": "Josty Qweenq",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Josty-Qweenq/servers/issues"
+    },
+    "homepage": "https://github.com/Josty-Qweenq/servers/tree/tcp#readme"
+}

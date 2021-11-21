@@ -1,8 +1,15 @@
-<h1 align="center">Сборник серверов<h1>
+<h1 align="center">TCP/IP<h1>
 
-# Доступные сервера:
+# Запуск:
 
-- TCP/IP
-- HTTP
-- HTTPS
-- UDP
+Для сервера консоле:
+
+```
+npm start server
+```
+
+Для клиента консоле:
+
+```
+npm start client
+```
