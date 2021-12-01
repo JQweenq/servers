@@ -1,15 +1,9 @@
 <h1 align="center">TCP/IP<h1>
 
-# Запуск:
+### Запуск:
 
 Для сервера консоле:
 
 ```
 npm start server
-```
-
-Для клиента консоле:
-
-```
-npm start client
 ```
